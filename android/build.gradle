@@ -26,6 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 33
+    namespace 'moe.star39.whatsapp_stickers_exporter'
 
 //    compileOptions {
 //        sourceCompatibility JavaVersion.VERSION_1_8
